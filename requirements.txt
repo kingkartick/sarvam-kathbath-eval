@@ -1,0 +1,4 @@
+requests
+jiwer
+remotezip
+soundfile
